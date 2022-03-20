@@ -3,9 +3,9 @@
 ## Document Of Jest
 
 ### Introduction
-- [x] [⏰  2020-3-20]Getting Started 
-- [x] [⏰  2020-3-20]Using Matchers
-- [x] [⏰  2020-3-20]Testing Asynchronous Code
+- [x] [⏰  2020-3-20] Getting Started 
+- [x] [⏰  2020-3-20] Using Matchers
+- [x] [⏰  2020-3-20] Testing Asynchronous Code
 - [] Setup and Teardown
 - [] Mock Functions
 - [] Jest Platform
