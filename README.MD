@@ -8,9 +8,9 @@
 - [x] [⏰  2020-3-20] Testing Asynchronous Code
 - [x] [⏰  2020-3-21] Setup and Teardown
 - [x] [⏰  2020-3-26] Mock Functions
-- [ ] Jest Platform
-- [ ] Jest Community
-- [ ] More Resources
+- [x] [⏰  2020-3-26] Jest Platform
+- [x] [⏰  2020-3-26] Jest Community
+- [x] [⏰  2020-3-26] More Resources
 
 ### Guides
 - [ ] Snapshot Testing
