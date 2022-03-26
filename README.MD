@@ -7,7 +7,7 @@
 - [x] [⏰  2020-3-20] Using Matchers
 - [x] [⏰  2020-3-20] Testing Asynchronous Code
 - [x] [⏰  2020-3-21] Setup and Teardown
-- [ ] Mock Functions
+- [x] [⏰  2020-3-26] Mock Functions
 - [ ] Jest Platform
 - [ ] Jest Community
 - [ ] More Resources
